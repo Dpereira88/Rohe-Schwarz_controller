@@ -1,0 +1,1 @@
+python scripts_by_dip1brg\power_supply_control.py ON 1 13.5 3
